@@ -19,3 +19,5 @@ La página posee un @media query que cambia el color de fondo según el tamaño 
 Todos los elementos son de diseño responsivo.
 
 La gama de colores se basa en tonalidades pastel con algunas excepciones.
+
+Dentro de la carpeta CSS se encuentra el archivo de SCSS.
