@@ -1,0 +1,34 @@
+/* Nesting */
+div
+{
+  #ing
+  {
+    margin-top: 5%;
+  	color: white;
+  }
+  p
+  {
+    	text-align: center;
+  }
+}
+
+/* Variable*/
+$bg: #D15B6B;
+
+body
+{
+  background-color: $bg;
+}
+
+/* Inheritance */
+%format
+{
+  border : 1px solid white;
+  padding : 5px;
+  text-align : center;
+}
+
+th,td
+{
+  @extend %format;
+}
