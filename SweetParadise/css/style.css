@@ -1,3 +1,4 @@
+/* Variable de SASS */
 body
 {
   background-color: #D15B6B;
@@ -73,7 +74,7 @@ table
 	border : 2px solid white;
 	margin: auto;
 }
-
+/* Inheritance de SASS */
 th,td
     {
       border : 1px solid white;
